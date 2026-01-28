@@ -3,7 +3,7 @@
 
 - 🏦 I'm currently a Computer Science major at Wayne State College in Nebraska
 
-- 📚 I'm studying c++ to gain knowledge and skills on it
+- 📚 I'm studying c++ & java to gain knowledge and skills on them
 
 - 👨🏻‍💻 I love technology
 
