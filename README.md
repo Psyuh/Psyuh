@@ -1,7 +1,7 @@
 # Hi 👋, I'm Josiah Clark (Siah)
 ## About Me
 
-- 🏦 I'm currently a Computer Science major at Wayne State College in Nebraska
+- 🏦 I'm currently a Computer Information Systems major at Wayne State College in Nebraska
 
 - 📚 I'm studying c++ & java to gain knowledge and skills on them
 
